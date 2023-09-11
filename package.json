@@ -57,7 +57,7 @@
         "extract-zip": "^2.0.1",
         "filestore-json": "^1.1.8",
         "mkdirp": "^3.0.1",
-        "node-fetch": "2.x.x",
+        "node-fetch": "3.x.x",
         "uuid": "^9.0.0",
         "yaml": "^2.3.2"
     }
