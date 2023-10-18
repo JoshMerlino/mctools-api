@@ -36,7 +36,7 @@
         "@types/mkdirp": "^2.0.0",
         "@types/node": "^20.8.6",
         "@types/node-fetch": "^2.6.1",
-        "@types/uuid": "^9.0.5",
+        "@types/uuid": "^9.0.6",
         "@types/webpack-env": "^1.18.2",
         "@typescript-eslint/eslint-plugin": "^6.8.0",
         "@typescript-eslint/parser": "^6.8.0",
