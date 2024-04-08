@@ -44,7 +44,7 @@
         "eslint": "^8.57.0",
         "nodemon": "^3.1.0",
         "typescript": "^5.4.4",
-        "typescript-eslint": "7.5.0"
+        "typescript-eslint": "7.6.0"
     },
     "dependencies": {
         "async-require-context": "^1.8.15",
