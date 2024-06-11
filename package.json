@@ -58,7 +58,7 @@
         "filestore-json": "^1.1.8",
         "mkdirp": "^3.0.1",
         "node-fetch": "2.x.x",
-        "uuid": "^9.0.1",
+        "uuid": "^10.0.0",
         "yaml": "^2.4.5"
     }
 }
